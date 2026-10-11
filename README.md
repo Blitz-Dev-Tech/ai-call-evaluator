@@ -9,13 +9,10 @@ An intelligent API project designed to evaluate and score sales representatives 
 * **Interactive UI:** A user-friendly web interface built with Streamlit for rapid manual testing and viewing batch results.
 
 ## 🛠️ Tech Stack
-Python 3.12
-
-OpenAI API (gpt-4o-mini)
-
-Pandas (Data manipulation)
-
-Streamlit (Frontend/UI)
+* Python 3.12
+* OpenAI API (gpt-4o-mini)
+* Pandas (Data manipulation)
+* Streamlit (Frontend/UI)
 
 python-dotenv (Environment variables management)
 
