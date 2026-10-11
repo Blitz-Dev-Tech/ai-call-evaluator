@@ -18,19 +18,24 @@ python-dotenv (Environment variables management)
 
 ## ⚙️ Installation & Setup
 Clone the repository:
+
 git clone https://github.com/Blitz-Dev-Tech/ai-call-evaluator.git
 
 Create a virtual environment and install dependencies:
+
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
 
 Create a .env file in the root directory and add your OpenAI API key:
+
 OPENAI_API_KEY=your_api_key_here
 
 ## 💻 Usage
 To run the batch processing script:
+
 python batch_processor.py
 
 To launch the Streamlit Web Interface:
+
 python -m streamlit run app.py
