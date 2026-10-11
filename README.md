@@ -24,7 +24,7 @@ python-dotenv (Environment variables management)
 
 ⚙️ Installation & Setup
 Clone the repository:
-git clone https://github.com/YourUsername/sales-call-analyzer.git
+git clone https://github.com/Blitz-Dev-Tech/sales-call-analyzer.git
 
 Create a virtual environment and install dependencies:
 python -m venv venv
