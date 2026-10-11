@@ -10,9 +10,13 @@ An intelligent API project designed to evaluate and score sales representatives 
 
 ## 🛠️ Tech Stack
 Python 3.12
+
 OpenAI API (gpt-4o-mini)
+
 Pandas (Data manipulation)
+
 Streamlit (Frontend/UI)
+
 python-dotenv (Environment variables management)
 
 ## ⚙️ Installation & Setup
